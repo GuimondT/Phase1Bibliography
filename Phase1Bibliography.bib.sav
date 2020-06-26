@@ -1200,6 +1200,32 @@
   revised         = {2020-03-10},
 }
 
+@Article{Sewell2017,
+  author          = {Sewell, Janey and Miltz, Ada and Lampe, Fiona C. and Cambiano, Valentina and Speakman, Andrew and Phillips, Andrew N. and Stuart, David and Gilson, Richard and Asboe, David and Nwokolo, Nneka and Clarke, Amanda and Collins, Simon and Hart, Graham and Elford, Jonathan and Rodger, Alison J. and to, Attitudes and of Risk of Acquisition of HIV (AURAH) Study Group, Understanding},
+  journal         = {The International journal on drug policy},
+  title           = {Poly drug use, chemsex drug use, and associations with sexual risk behaviour in HIV-negative men who have sex with men attending sexual health clinics.},
+  year            = {2017},
+  issn            = {1873-4758},
+  month           = may,
+  pages           = {33--43},
+  volume          = {43},
+  abstract        = {Recreational drug use and associated harms continue to be of significant concern in men who have sex with men (MSM) particularly in the context of HIV and STI transmission. Data from 1484 HIV-negative or undiagnosed MSM included in the AURAH study, a cross-sectional, self-completed questionnaire study of 2630 individuals from 20 sexual health clinics in the United Kingdom in 2013-2014, was analysed. Two measures of recreational drug use in the previous three months were defined; (i) polydrug use (use of 3 or more recreational drugs) and (ii) chemsex drug use (use of mephedrone, crystal methamphetamine or GHB/GBL). Associations of socio-demographic, health and lifestyle factors with drug use, and associations of drug use with sexual behaviour, were investigated. Of the 1484 MSM, 350 (23.6%) reported polydrug use and 324 (21.8%) reported chemsex drug use in the past three months. Overall 852 (57.5%) men reported condomless sex in the past three months; 430 (29.0%) had CLS with ≥2 partners, 474 (31.9%) had CLS with unknown/HIV+ partner(s); 187 (12.6%) had receptive CLS with an unknown status partner. For polydrug use, prevalence ratios (95% confidence interval) for association with CLS measures, adjusted for socio-demographic factors were: 1.38 (1.26, 1.51) for CLS; 2.11 (1.80, 2.47) for CLS with ≥2 partners; 1.89 (1.63, 2.19) for CLS with unknown/HIV+ partner(s); 1.36 (1.00, 1.83) for receptive CLS with an unknown status partner. Corresponding adjusted prevalence ratios for chemsex drug use were: 1.38 (1.26, 1.52); 2.07 (1.76, 2.43); 1.88 (1.62, 2.19); 1.49 (1.10, 2.02). Polydrug and chemsex drug use were also strongly associated with previous STI, PEP use, group sex and high number of new sexual partners. Associations remained with little attenuation after further adjustment for depressive symptoms and alcohol intake. There was a high prevalence of polydrug use and chemsex drug use among HIV negative MSM attending UK sexual health clinics. Drug use was strongly associated with sexual behaviours linked to risk of acquisition of STIs and HIV.},
+  chemicals       = {Illicit Drugs},
+  citation-subset = {IM},
+  completed       = {2018-03-06},
+  country         = {Netherlands},
+  doi             = {10.1016/j.drugpo.2017.01.001},
+  issn-linking    = {0955-3959},
+  keywords        = {Adult; Cross-Sectional Studies; HIV Infections, transmission; Homosexuality, Male; Humans; Illicit Drugs; Life Style; Male; Middle Aged; Prevalence; Risk-Taking; Sexual Behavior, statistics & numerical data; Sexual Health; Sexual Partners; Sexual and Gender Minorities, statistics & numerical data; Sexually Transmitted Diseases, transmission; Substance-Related Disorders, complications, epidemiology; Surveys and Questionnaires; United Kingdom, epidemiology; Unsafe Sex, statistics & numerical data; Young Adult; Chemsex; HIV negative; HIV prevention; Men who have sex with men; Recreational drug use; Sexual behaviour; Sexual health},
+  nlm-id          = {9014759},
+  owner           = {NLM},
+  pii             = {S0955-3959(17)30003-8},
+  pmid            = {28189979},
+  pubmodel        = {Print-Electronic},
+  pubstate        = {ppublish},
+  revised         = {2019-12-10},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
