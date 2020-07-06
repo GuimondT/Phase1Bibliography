@@ -2059,6 +2059,13 @@
   revised         = {2018-11-05},
 }
 
+@Book{SC2017,
+  author    = {{Statistics Canada}},
+  publisher = {Government of Canada},
+  title     = {Primary health care providers, 2017},
+  year      = {2019},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
