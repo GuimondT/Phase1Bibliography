@@ -2034,6 +2034,31 @@
   year    = {2014},
 }
 
+@Article{Coates2018,
+  author          = {Coates, Dominiek},
+  journal         = {Journal of psychosocial nursing and mental health services},
+  title           = {Service Models for Urgent and Emergency Psychiatric Care: An Overview.},
+  year            = {2018},
+  issn            = {0279-3695},
+  month           = aug,
+  pages           = {23--30},
+  volume          = {56},
+  abstract        = {There is variation in the way mental health services respond to urgent and emergency presentations, with few evidence-based models reported in the literature, and no agreed on best practice models. To inform the development of urgent and emergency psychiatric care models, a literature review was performed. The review sought to identify strengths and critiques of varying models, evidence gaps, and areas for future research. After review, significant variation was found in the design and scope of urgent and emergency care models. Most models are either community or hospital based, with few integrated models that span community and hospital care. The development of integrated models has the potential to reduce service duplication and support a shift toward provision of least restrictive care. The overall evidence base of urgent and emergency care models is limited, with few studies in the area, and there is a need for further research. [Journal of Psychosocial Nursing and Mental Health Services, 56(8), 23-30.].},
+  citation-subset = {IM, N},
+  completed       = {2018-11-05},
+  country         = {United States},
+  doi             = {10.3928/02793695-20180212-01},
+  issn-linking    = {0279-3695},
+  issue           = {8},
+  keywords        = {Delivery of Health Care, Integrated, standards; Emergency Service, Hospital; Emergency Services, Psychiatric, standards; Humans; Psychiatric Nursing},
+  nlm-id          = {8200911},
+  owner           = {NLM},
+  pmid            = {29447412},
+  pubmodel        = {Print-Electronic},
+  pubstate        = {ppublish},
+  revised         = {2018-11-05},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
