@@ -2066,6 +2066,32 @@
   year      = {2019},
 }
 
+@Article{Remick2014,
+  author          = {Remick, Ronald A. and Araki, Yuriko and Bruce, Robin and Gorman, Chris and Allen, Judy and Remick, Abigail K. and Lear, Scott A.},
+  journal         = {Canadian journal of psychiatry. Revue canadienne de psychiatrie},
+  title           = {The mood disorders association of british columbia psychiatric urgent care program: a preliminary evaluation of a suggested alternative model of outpatient psychiatric care.},
+  year            = {2014},
+  issn            = {0706-7437},
+  month           = apr,
+  pages           = {220--227},
+  volume          = {59},
+  abstract        = {To describe an alternative model of psychiatric outpatient care for patients with mood and anxiety disorders (the Mood Disorders Association of British Columbia Psychiatric Urgent Care Program or the MDA Program) using group medical visits (GMV) and (or) email communications in lieu of individual follow-up appointments. Annual costs of the MDA Program were compared with average costs of private psychiatrists offering outpatient care and patients being treated in a mental health centre. In addition, questionnaires as to patient satisfaction with the MDA Program intake, GMV experience, and family physician satisfaction with the MDA Program were administered. The MDA Program model of care is significantly more cost effective than individual psychiatric outpatient care or health authority mental health centre care for patients with moderate or severe illness. Patients and family physicians were very satisfied with the model of care and GMVs offered. The MDA Program model of care appears to be efficient and cost-effective, and patients and referring physicians appear satisfied with the care offered in this program.},
+  citation-subset = {IM},
+  completed       = {2014-08-18},
+  country         = {United States},
+  doi             = {10.1177/070674371405900407},
+  issn-linking    = {0706-7437},
+  issue           = {4},
+  keywords        = {Adult; Ambulatory Care, methods, organization & administration; British Columbia; Cost-Benefit Analysis; Emergency Services, Psychiatric, economics, methods, organization & administration; Female; Humans; Male; Models, Organizational; Mood Disorders, diagnosis, economics, psychology, therapy; Outpatients, psychology, statistics & numerical data; Patient Satisfaction, statistics & numerical data; Program Evaluation; Severity of Illness Index; Surveys and Questionnaires},
+  nlm-id          = {7904187},
+  owner           = {NLM},
+  pmc             = {PMC4079133},
+  pmid            = {25007115},
+  pubmodel        = {Print},
+  pubstate        = {ppublish},
+  revised         = {2020-04-08},
+}
+
 @Comment{jabref-meta: databaseType:bibtex;}
 
 @Comment{jabref-meta: grouping:
